@@ -13,4 +13,4 @@ slug = "maison-coursieres"
 
 <p>Pour le moment la maison des coursier·es est ouverte tous les weekends de 12h a 19h. Les créneaux d'accueil seront étendus en 2022.</p>
 
-<p style="margin-bottom: 120px;">Une ligne téléphonique va être ouverte, en attendant vous pouvez contacter <a href="mailto:circe@coopcycle.org">circe@coopcycle.org</a>.</p>
+<p style="margin-bottom: 120px;">Vous pouvez contacter les responsables du projet et du lieu par mail (<a href="mailto:mdc@coopcycle.org">mdc@coopcycle.org</a>) ou par téléphone au <a href="tel:+33765200960">07 65 20 09 60</a>.</p>
